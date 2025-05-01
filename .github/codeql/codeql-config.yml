@@ -1,5 +1,0 @@
-paths:
-  - nerf
-paths-ignore:
-  - 'tests/**'
-  - 'example_data/**'
